@@ -1,8 +1,11 @@
 # Movie review app
-This is a movie review application. It has features such as 1-5 star ratings, search for specific movies, etc.
+This is a movie review application. 
+It has features such as:
+* 1-5 star ratings
+* Search for specific movies
+* Review and comment sections.
 
-It also uses elasticsearch - searchkick gem
+Search feature uses searchkick gem which is an elasticsearch 
 
-For the search to work, you must run 
-'elasticsearch --config=/usr/local/opt/elasticsearch/config/elasticsearch.yml'
-in the console
+For the search to work, you must run the command below in the console
+`'elasticsearch --config=/usr/local/opt/elasticsearch/config/elasticsearch.yml'`
