@@ -8,4 +8,5 @@ It has features such as:
 Search feature uses searchkick gem which is an elasticsearch 
 
 For the search to work, you must run the command below in the console
+
 `'elasticsearch --config=/usr/local/opt/elasticsearch/config/elasticsearch.yml'`
